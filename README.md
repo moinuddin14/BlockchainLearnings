@@ -38,3 +38,10 @@ This is my learning path to Blockchain
   - Ethereum Improvement Proposals (EIP): https://github.com/ethereum/EIPs
   - Ethereum Stats: https://ethstats.net/
   - Cosmos Network: https://cosmos.network/
+  - Ethereum Keystore File: https://medium.com/@julien.m./what-is-an-ethereum-keystore-file-86c8c5917b97
+  - Ethereum Accounts, Addresses, Public And Private Keys, And Tokens
+    - https://theethereum.wiki/w/index.php/Accounts,_Addresses,_Public_And_Private_Keys,_And_Tokens
+  - How to get the public key of an account?
+    - https://ethereum.stackexchange.com/questions/13778/get-public-key-of-any-ethereum-account/13892
+
+    - http://developer.consensysindia.com/
