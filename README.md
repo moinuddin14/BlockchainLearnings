@@ -31,6 +31,14 @@ This is my learning path to Blockchain
   - Solidity Youtube: 
     - https://www.youtube.com/watch?v=v_hU0jPtLto&list=PL16WqdAj66SCOdL6XIFbke-XQg2GW_Avg
   
+  ### Vyper - Ethereum's Experimental Programming Language
+  - https://github.com/ethereum/vyper
+  - An early look at Vyper: https://medium.com/@maurelian/an-early-look-at-vyper-d101e0c349c1
+    - See the responses from Vitalik, where you can see more light thrown on some of the issues the author has raised. 
+  - Vyper Online Compiler: https://vyper.online/
+  - Vyper Docs: https://vyper.readthedocs.io/en/latest/
+  - Understanding Vyper: The slick New Ethereum language (Blockgeeks being one of favorite online resources for Blockchain, so     i may be biased :) ): https://blockgeeks.com/guides/understanding-vyper/\
+  
 ### Resources: 
   - EVM Tools: https://github.com/CoinCulture/evm-tools/blob/master/analysis/guide.md
   - Diving Into The Ethereum VM: https://blog.qtum.org/diving-into-the-ethereum-vm-6e8d5d2f3c30
